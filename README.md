@@ -1,41 +1,50 @@
-#!/bin/bash
+# TechSupport-Scripts
 
-# User-specific details
-GITHUB_USERNAME="your-username"    # Replace with your GitHub username
-REPO_NAME="your-github-profile"   # Use your username as the repository name for a profile repo
-DESCRIPTION="My Professional GitHub Profile" 
-VISIBILITY="public"                # Set 'private' for private repos
+## Overview
+This repository is a showcase of my expertise in IT Support, Automation, and Cloud Solutions. It includes scripts, tools, and solutions that I’ve developed over 6+ years of professional experience to streamline technical support processes and enhance operational efficiency.
 
-# Step 1: Create GitHub Repository
-echo "Creating GitHub repository..."
-gh repo create "$REPO_NAME" --description "$DESCRIPTION" --$VISIBILITY --confirm
+---
 
-# Step 2: Clone the Repository Locally
-echo "Cloning the repository..."
-git clone "https://github.com/$GITHUB_USERNAME/$REPO_NAME.git"
-cd "$REPO_NAME" || exit
+## Skills & Expertise
+- **IT Support & Troubleshooting**: Automated solutions for resolving common technical issues.
+- **Cloud Administration**: Expertise in Azure, Intune, and Office 365.
+- **Identity & Access Management**: Hands-on experience with Okta and Microsoft Active Directory.
+- **Cybersecurity**: Certified in CPEH, CPTE, and CompTIA Security+ with a focus on endpoint security and compliance.
+- **Automation Tools**: Developed custom scripts for Jira workflows, employee onboarding, and resource optimization.
 
-# Step 3: Add a README File
-echo "Adding a README.md..."
-cat > README.md <<EOL
-# $GITHUB_USERNAME
+---
 
-## Welcome to My Professional GitHub Profile!
-- **Experience:** 6+ years in IT Support & Application Development
-- **Specializations:** Cloud Solutions, Cybersecurity, and Technical Support
-- **Skills:** Azure, Intune, Okta, Jira, Microsoft Office 365
-- **Certifications:** CPEH, CPTE, CompTIA Security+
+## Scripts Included
+1. **System Health Checker**  
+   *Purpose*: Monitors system health and generates a detailed performance report.  
+   *Technology*: PowerShell  
+   *File Name*: `system_health_checker.ps1`
 
-Stay tuned for more updates and projects!
-EOL
+2. **User Onboarding Automation**  
+   *Purpose*: Automates user provisioning and setup in Office 365 and Active Directory.  
+   *Technology*: PowerShell  
+   *File Name*: `user_onboarding.ps1`
 
-# Step 4: Commit Changes
-git add README.md
-git commit -m "Initial commit with README.md"
+3. **Azure Cleanup Tool**  
+   *Purpose*: Identifies and removes unused Azure resources to reduce costs.  
+   *Technology*: PowerShell, Azure CLI  
+   *File Name*: `azure_cleanup_tool.ps1`
 
-# Step 5: Push to GitHub
-echo "Pushing changes to GitHub..."
-git push -u origin main
+4. **Incident Response Toolkit**  
+   *Purpose*: Collection of scripts to investigate and resolve cybersecurity incidents.  
+   *Technology*: Python  
+   *File Name*: `incident_response_toolkit.py`
 
-# Completion Message
-echo "GitHub profile repository '$REPO_NAME' has been successfully set up!"
+---
+
+## Certifications
+- **CPEH (Certified Professional Ethical Hacker)**  
+- **CPTE (Certified Penetration Testing Engineer)**  
+- **CompTIA Security+**
+
+---
+
+## How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Cyber-Shaikh/TechSupport-Scripts.git
