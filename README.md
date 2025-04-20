@@ -1,56 +1,62 @@
-# 🌐 **TechSupport-Scripts** 🚀
+# 👋🏼 Assalamu Alaikum! I'm **Muzaffar Moosa Shaikh**  
+🔒 Cybersecurity Engineer | ⚙️ Automation Specialist | 🧠 Career Mentor
 
-> **A cutting-edge collection of automated scripts and solutions** for IT Support, Cloud Management, and Cybersecurity 🛡️, crafted by **Cyber Shaikh** – a Service Desk Engineer with 6+ years of professional experience in troubleshooting, **remote support**, and **cloud automation**. ✨
-
----
-
-## 💼 **Why This Repository Is Unique**
-🚀 **Tech Support Automation** with a **dash of creativity**!  
-Each script is designed to **revolutionize** the way you manage IT systems, troubleshoot issues, and ensure security—whether you're a **freelancer**, **corporate IT team**, or an **HR professional** looking for **cutting-edge solutions**.
-
-**This repository is not just about scripts; it's about transforming how businesses operate through automation.**
+I bring 6+ years of hands-on experience in IT Support, Cybersecurity, and Scripting. Currently working remotely from 🇮🇳 India as a **Senior Application & System Engineer**, with a strong focus on Tech Support Automation and Security.
 
 ---
 
-## 🛠️ **Key Features**:
-### 🔑 **Multi-Purpose Scripts for Real-World IT Solutions**:
-   - **Remote Support**: 🌍 Whether your users are in the next room or across the globe, solve issues instantly with automated remote assistance tools.
-   - **Cloud & System Automation**: ☁️ Streamline cloud resource management and automate system health checks to prevent downtime.
-   - **Advanced Troubleshooting**: 🔧 Diagnose and fix complex issues with **minimal manual intervention**.
-   - **Seamless Integrations**: 🌐 Automatically integrate with tools like **Jira**, **Office 365**, and **Azure**.
+## 💼 What I Do
 
-### 🌟 **Scripts Included:**
-#### 1. **🚑 Remote Support – Troubleshooting on the Go!**
-   - **Purpose**: Help users from anywhere in the world with one click—no need for a face-to-face interaction.
-   - **Tech**: PowerShell, TeamViewer API  
-   - **File Name**: `remote_assist.ps1`
-
-#### 2. **💡 Auto-Troubleshooter – Instant Diagnosis, Zero Delays**
-   - **Purpose**: Automated scripts to identify network, device, or software issues and take action.
-   - **Tech**: PowerShell, Bash  
-   - **File Name**: `instant_troubleshooter.ps1`
-
-#### 3. **🌱 Cloud Clean-Up – Optimize Your Azure Resources**
-   - **Purpose**: Ensure your cloud resources are optimized, reducing unnecessary costs and improving efficiency.
-   - **Tech**: Azure CLI, PowerShell  
-   - **File Name**: `cloud_cleanup.ps1`
-
-#### 4. **🔒 Incident Response – Automated Cybersecurity Tasks**
-   - **Purpose**: Handle cybersecurity incidents with speed and accuracy by automating incident response procedures.
-   - **Tech**: Python, Incident Response Tools  
-   - **File Name**: `incident_response.py`
+- 🛠️ **Automate** repetitive IT tasks using PowerShell, WMI & scripting
+- 🔐 **Cybersecurity** | Ethical Hacking | VAPT | Cyber Law | Incident Response
+- 🧑‍🏫 **Career Mentoring** (Grades 8–12) & Education Guidance
 
 ---
 
-## 🔥 **Why Choose Me?**
-- **6+ Years of Experience** solving IT challenges for organizations of all sizes.
-- **A Proven Track Record** of automating tasks and optimizing IT operations.
-- **Highly Skilled** in **Cloud Automation**, **Remote Support**, **Cybersecurity**, and **Scripting**.
-- Focus on **Efficiency, Accuracy**, and **Minimizing Downtime**.
+## 🧠 Skills & Tools
+
+- 💻 **Languages:** PowerShell, Bash, CMD, WMI
+- 🖥️ **Tech:** Active Directory, SCCM, ITSM, GPO, WSUS
+- 🛡️ **Security:** SIEM | Threat Hunting | Endpoint Defense
+- 📜 **Certifications:** CPTE, CPEH, Diploma in Cybersecurity
 
 ---
 
-## 🚀 **How It Works:**
-1. **Clone** this repo to your local machine:
-   ```bash
-   git clone https://github.com/Cyber-Shaikh/TechSupport-Scripts.git
+## 🎓 Education
+
+- 🎓 **Master's in Cybersecurity** *(Ongoing)* – Manipal University  
+- 🧾 CPTE & CPEH Certified | 19+ Certifications (2 International)
+
+---
+
+## 🚀 Featured Projects
+
+| 🗂 Project | 💡 Description |
+|-----------|----------------|
+| [TechSupport-Scripts](https://github.com/Cyber-Shaikh/TechSupport-Scripts) | PowerShell automation for day-to-day IT support |
+| [DeviceManagement](https://github.com/Cyber-Shaikh/DeviceManagement) | Efficient tools to manage endpoints |
+| [PowerShell GUI Tools](https://github.com/Cyber-Shaikh/Powershell_GUI) | GUI tools for IT Admins & Support Teams |
+
+---
+
+## 🌐 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/muzaffar-shaikh-tech-cyber/)
+- 🧑‍💻 [GitHub Portfolio](https://github.com/Cyber-Shaikh)
+- 📧 Email: muzaffarshaikh.official@gmail.com
+
+---
+
+## 📊 GitHub Stats & Badges
+
+![Muzaffar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cyber-Shaikh&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Shaikh&layout=compact&theme=tokyonight)
+
+![GitHub Followers](https://img.shields.io/github/followers/Cyber-Shaikh?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Cyber-Shaikh?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Cyber-Shaikh&label=Profile%20views&color=blue)
+
+---
+
+> 🕋 *“Work hard in silence, let your skills and sincerity make the noise.”*  
+> - Inspired by the Sahaba, striving to live a simple and purposeful life.
